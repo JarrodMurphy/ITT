@@ -1,0 +1,28 @@
+Html, body {
+background: #02182B;
+font-family: ‘lato’, Helvetica, arial, sans serif;
+font size: 16px;
+color: #68C5DB;
+}
+
+P {
+font-size: 1em;
+line-height: 1.4em;
+margin-bottom: 20px;
+color: #68C5DB;
+}
+
+H1 {
+border-bottom: 1px solid #0197F6 ;
+padding: 20px 0 0;
+}
+
+H2 {
+font-size: 2px;
+color: #448FA3;
+padding: 20px 0 0;
+}
+
+sectionTitle img {
+width: 100%;
+}
